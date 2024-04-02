@@ -4,3 +4,5 @@
 [2. Logical and Functional Programming💎](https://github.com/IoanaBotezatu01/Logical-and-Functional-Programming)
 
 [3.Databases📊](https://github.com/IoanaBotezatu01/Databases)
+
+[4.Probability and Statistics🧮]()
